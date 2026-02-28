@@ -20,9 +20,9 @@ backend development | python programming | research and documentation | network 
  - VS code
  - PyCharm
 
-😄 Pronouns: He/Him
+😄Pronouns: He/Him
 
-⚡ Fun fact: I used to play piano 🎹
+⚡Fun fact: I used to play piano 🎹
 
 📫 How to reach me: 
  - Instagram: instagram.com/waltrr._
